@@ -10,11 +10,9 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Runtime data
+# Agent data
 agent/data/
 server/uploads/
-server/data/
-
-# Logs
-*.log
+*.jpg
+*.png
 
